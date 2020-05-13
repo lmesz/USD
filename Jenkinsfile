@@ -1,5 +1,5 @@
 def repo_url = 'https://github.com/memsharded/example-boost-poco.git'
-def repo_branch = master
+def repo_branch = "master"
 
 node {
     stages {
